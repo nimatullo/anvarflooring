@@ -1,0 +1,39 @@
+.link {
+  margin: 1%;
+}
+
+.navbar-toggler-icon {
+  background-image: url(https://i.ibb.co/JtRB6gK/icons8-menu-50.png) !important;
+}
+
+.link a {
+  color: black;
+  transition: color 0.2s ease;
+  padding: 1%;
+}
+
+@media screen and (max-width: 992px) {
+  .top-buffer {
+    margin-top: 30px;
+  }
+}
+
+
+.link a:hover {
+  color: grey;
+  text-decoration: none;
+}
+
+nav {
+  background-color: #fcfcfc !important;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3em;
+  border-bottom: 1px solid lightgrey;
+}
+.top-contact {
+  background-color: #1a1a1a;
+  color: #edeeef;
+}
+text {
+  font-family: 'Montserrat', serif;
+}

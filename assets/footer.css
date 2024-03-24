@@ -1,0 +1,51 @@
+.social {
+  color: #edeeef;
+  background-color: #1e1e1e;
+}
+
+.social-media-container {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.social-media-container a {
+  color: #edeeef;
+}
+
+.social .col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa {
+  padding: 1%;
+  color: white;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: #edeeef;
+}
+footer a {
+  color: #edeeef;
+}
+
+.copyright {
+  color: #666;
+  margin: auto;
+  text-align: center;
+  font-size: 0.7em;
+  width: 100%;
+  background-color: #1a1a1a;
+}
+
+footer text {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+@media screen and (max-width: 992px) {
+  .top-buffer {
+    margin-top: 25px;
+  }
+}

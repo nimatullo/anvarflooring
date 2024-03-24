@@ -1,0 +1,31 @@
+.services .jumbotron {
+  padding: 5%;
+  background-color: white;
+}
+.services-columns {
+  margin: 1%;
+  padding: 1%;
+}
+@media screen and (min-width: 992px) {
+  .right-border {
+    border-right: 1px solid lightgrey;
+  }
+}
+html, body {
+  height: 100%;
+  background-color: #fcfcfc;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+  font-size: 1.1em;
+}
+a {
+color: #8d8d89;
+}
+a:hover {
+color: #fcfcfc;
+}

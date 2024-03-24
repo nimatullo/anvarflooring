@@ -1,0 +1,64 @@
+.submit_button {
+  color: #1a1a1a;
+  background-color: #ffd621;
+  border: 0px;
+  border-radius: 45px;
+  padding: 10px 30px;
+  transition: 0.2s ease;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  
+}
+
+@media screen and (max-width: 992px) {
+  .submit_button {
+      margin-bottom: 5%;
+  }
+}
+
+.submit_button:hover {
+  background-color: #e8be00;
+  text-decoration: none;
+  box-shadow: 0px 15px 20px rgba(232, 190, 0, 0.4);
+  transform: translateY(-7px);
+}
+
+.field {
+  background-color: #fcfcfc;
+  border: 1px solid black;
+  color: black;
+  padding: 2%;
+  width: 100%;
+  transition: 0.3s ease;
+  border-radius: 15px;
+}
+
+.field:focus {
+  border: 1px solid lightgrey;
+}
+
+.message_form {
+  background-color: #fcfcfc;
+  color: black;
+  border: 1px solid black;
+  padding: 2%;
+  width: 100%;
+  transition: 0.3s ease;
+  border-radius: 15px;
+}
+.g-recaptcha {
+  margin: 5%;
+}
+
+.message_form:focus {
+  border: 1px solid lightgrey;
+}
+
+.middle {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  padding: 2%;
+  font-size: 4em;
+}

@@ -1,0 +1,28 @@
+.floors {
+  padding: 2%;
+}
+
+.floors p {
+  font-size: 1.4em;
+}
+
+.floors h2 {
+  font-size: 3em;
+  font-weight: lighter;
+  border-bottom: 1px solid lightgrey;
+}
+
+.more-info-link {
+  color: #1a1a1a;;
+  border: 1px solid #1a1a1a;;
+  border-radius: 3px;
+  padding: 3%;
+  transition: .3s ease;
+}
+
+.more-info-link:hover {
+  text-decoration: none;
+  color: #dfe0e2;
+  background-color: #262626;
+  border: 1px solid #262626;
+}
