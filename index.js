@@ -3,7 +3,14 @@
 document.addEventListener('DOMContentLoaded', () => {
     const fileNames = [
         'thumbsup.jpg',
-        'magic flooring.jpg'
+        'magic flooring.jpg',
+        'flooring.jpg',
+        'flooring 2.jpg',
+        'flooring 3.jpg',
+        'flooring 4.jpg',
+        'magic flooring video.mov',
+        'flooring 5.jpg'
+        
     ]
 
     const container = document.getElementById("gallery")
