@@ -2,7 +2,8 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     const fileNames = [
-        'thumbsup.jpg'
+        'thumbsup.jpg',
+        'magic flooring'
     ]
 
     const container = document.getElementById("gallery")
