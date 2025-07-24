@@ -8,7 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
         'flooring 4.jpg',
         'flooring 5.jpg',
         'magic 2.jpg',
-        'magic 4.jpg'
+        'magic 4.jpg',
+        'Anvar 1.jpg',
+        'Anvar 2.jpg'
         
     ]
 
