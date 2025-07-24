@@ -6,7 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
         'flooring 2.jpg',
         'flooring 3.jpg',
         'flooring 4.jpg',
-        'flooring 5.jpg'
+        'flooring 5.jpg',
+        'magic 1.jpg',
+        'magic 2.jpg',
+        'magic 3.jpg',
+        'magic 4.jpg'
         
     ]
 
