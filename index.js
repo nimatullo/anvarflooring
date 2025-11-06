@@ -10,7 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
         'magic 2.jpg',
         'magic 4.jpg',
         'Anvar 1.jpg',
-        'Anvar 2.jpg'
+        'Anvar 2.jpg',
+        'magic flooring 100.jpg',
+        'magic flooring 101.jpg',
+        'magic flooring 102.jpg',
+        'magic flooring 103.jpg'
+        
         
     ]
 
