@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
         'magic flooring 100.jpg',
         'magic flooring 101.jpg',
         'magic flooring 102.jpg',
-        'magic flooring 103.jpg',
         
         
     ]
